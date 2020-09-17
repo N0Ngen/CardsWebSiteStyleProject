@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'cSite.apps.CsiteConfig',
+    "cSite.apps.CsiteConfig",
 ]
 
 MIDDLEWARE = [
